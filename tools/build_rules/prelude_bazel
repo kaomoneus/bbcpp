@@ -1,0 +1,3 @@
+load("//bzl:we.bzl", "we_import")
+load("//bzl:we.bzl", "we_lib")
+load("//bzl:we.bzl", "we_bin")
